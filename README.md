@@ -1,5 +1,4 @@
-Bike Sharing Analysis in each of hour, day, and month
-The dataset is opensource on kaggle
+Bike Sharing Analysis in each of hour, day, and month and The dataset is open source on kaggle
 
 # Bike Sharing Dashboard
 
