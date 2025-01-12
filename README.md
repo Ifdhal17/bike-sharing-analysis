@@ -1,4 +1,9 @@
+Bike Sharing Analysis in each of hour, day, and month
+The dataset is opensource on kaggle
+
 # Bike Sharing Dashboard
+
+How to run this code, the instruction below :
 
 ## Setup Environment - Shell/Terminal
 ```
