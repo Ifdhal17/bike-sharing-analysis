@@ -1,4 +1,6 @@
-Bike Sharing Analysis in each of hour, day, and month and The dataset is open source on kaggle
+Bike Sharing Analysis aims to explore usage patterns, identify key factors and derive actionable insigts that can help improve service efficiency, inform marketing strategies, and predict demand.
+
+The dataset is open source from kaggle, and this project is to fulfill Bangkit Academy's assignment.
 
 # Bike Sharing Dashboard
 
