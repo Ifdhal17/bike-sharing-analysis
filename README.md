@@ -1,3 +1,5 @@
+# Bike Sharing Dashboard
+
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/609965d4-c233-4758-ab8a-bbba27829a11" />
 
 Bike Sharing Analysis aims to explore usage patterns, identify key factors and derive actionable insigts that can help improve service efficiency, inform marketing strategies, and predict demand.
